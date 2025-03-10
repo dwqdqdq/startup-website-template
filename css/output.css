@@ -1660,6 +1660,14 @@ video {
   }
 }
 
+  .support-bg {
+    background-image: url("../img/bg-support-dark.svg");
+  }
+
+  .help-bg {
+    background-image: url("../img/bg-help.svg");
+  }
+
 @media (min-width: 1536px) {
   .\32xl\:w-1\/2 {
     width: 50%;
